@@ -18,7 +18,6 @@ body {
 
 .main {
   max-width: 20rem;
-  margin: 0 auto;
   border-radius: 0.9rem;
   box-shadow: 0.75rem 0.4rem 1.25rem 0.3rem rgba(38, 49, 56, 0.06);
 }
@@ -39,7 +38,7 @@ body {
   padding: 1rem 0.6rem;
 }
 
-.QrBottomText > h2 {
+.QrBottomText > h1 {
   color: hsl(218, 44%, 22%);
   padding-bottom: 0.9rem;
   font-weight: 700;
